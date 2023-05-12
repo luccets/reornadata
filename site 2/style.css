@@ -1,0 +1,38 @@
+body {
+    background-image: linear-gradient(to right, rgb(80, 184, 149), black);
+}
+
+#main {
+    width: 400px;
+    height: 200px;
+    background-image: linear-gradient(to left, black, blue);
+    margin-left: 35%;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 70px;
+    border-radius: 50%;
+    color: #fff;
+
+}
+
+#ligar{
+    width: 100px;
+    height: 70px;
+    background-image: linear-gradient(to left, black, aquamarine);
+    color:yellow;
+    font-weight: bold;
+    margin-left: 40%;
+    margin-top: 60px;
+    border-radius: 45px;
+    
+}
+
+#desligar {
+    width: 100px;
+    height: 70px;
+    background-image: linear-gradient(to left, black, aquamarine);
+    color:yellow;
+    font-weight: bold;
+    margin-left: 7%;
+    border-radius: 45px;
+}
